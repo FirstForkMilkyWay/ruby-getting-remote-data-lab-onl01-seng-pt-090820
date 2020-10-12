@@ -1,3 +1,7 @@
 # Write your code here
 
-class GetR
+class GetRequester
+
+def 
+
+end 
