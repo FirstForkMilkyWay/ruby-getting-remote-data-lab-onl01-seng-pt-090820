@@ -1,7 +1,10 @@
 # Write your code here
 
+require 'open'
+
 class GetRequester
 
-def 
+def get_response_body
+end 
 
 end 
