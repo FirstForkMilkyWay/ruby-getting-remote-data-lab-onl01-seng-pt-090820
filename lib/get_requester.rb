@@ -1,6 +1,8 @@
 # Write your code here
 
-require 'open'
+require 'net/http'
+require 'open-uri'
+require 'json'
 
 class GetRequester
 
