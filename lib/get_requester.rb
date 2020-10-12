@@ -14,6 +14,7 @@ def get_response_body
     response.body
 end 
 
-def 
+def parse_json
+end 
 
 end 
